@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #d2bee4;
+}
+
+header {
+    display: block;
+}
+#convertor {
+    
+    font-size: 38px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 130px 485px 0px 485px;
+    color: #fff;
+}
+
+.convertor-input {
+    margin: 40px 500px;
+    padding: 8px 20px;
+    font-size: 20px;
+    border: 2px solid #ab74db;
+    border-radius: 10px;
+    box-shadow: 3px 10px 10px #a16fccea;
+}
+
+#result {
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px 560px 30px ;
+}
+
+button  {
+    margin: 0px 30px;
+    width: 200px;
+    padding: 20px ;
+    border: 3px solid #ab74db;
+    border-radius: 10px;
+    background-color: #dad6d99c;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    box-shadow: 3px 18px 18px #a16fccea;
+}
+
+.buttons :hover {
+    box-shadow: 0px 0px ;
+    background-color: rgba(182, 108, 182, 0.61);
+    color: rgb(104, 104, 104);
+}
+.buttons  {
+    margin: 0px 245px ;
+}
