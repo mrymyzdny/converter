@@ -1,2 +1,5 @@
-# converter
-this website can convert celsius to fahrenheit.
+## 💿 Demo
+[click here](https://mrymyzdny.github.io/converter/)
+
+## 📷 Screenshot
+![screenshot](https://github.com/mrymyzdny/converter/blob/main/Screenshot.jpg?raw=true)
